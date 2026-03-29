@@ -5,7 +5,7 @@ import { Code2, Palette, Database, Layout, Sparkles } from "lucide-react";
 const skills = [
   { name: "HTML", level: 95, icon: <Code2 className="text-orange-500" /> },
   { name: "CSS", level: 90, icon: <Layout className="text-blue-500" /> },
-  { name: "JavaScript", level: 85, icon: <Code2 className="text-yellow-500" /> },
+  { name: "JavaScript", level: 75, icon: <Code2 className="text-yellow-500" /> },
   { name: "Basic UI/UX", level: 70, icon: <Palette className="text-pink-500" /> },
   { name: "Data Analytics", level: 65, icon: <Database className="text-purple-500" /> },
 ];
